@@ -11,7 +11,7 @@
 
 **Revolutionary BEP20 Token on BSC with Seamless Telegram Integration**
 
-[🌐 Website](https://infbsc.xyz) · [🤖 Claim Bot](https://t.me/InfinityClaimBot) · [🐛 Report Bug](https://github.com/infbsc/Infinity-Crypto-Services/issues)
+[🌐 Website](https://infbsc.xyz) · [🤖 Claim Bot](https://t.me/InfinityClaimBot) · [🐛 Report Bug](https://github.com/nectariferous/Infinity-Crypto-Services/issues)
 
 </div>
 
