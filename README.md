@@ -5,7 +5,7 @@
 <img src="./coin.png" alt="Infinity Crypto Logo" width="150px"/>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-F1B90C.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Stars](https://img.shields.io/github/stars/infbsc/Infinity-Crypto-Services.svg?style=social&label=Star)](https://github.com/infbsc/Infinity-Crypto-Services/stargazers)
+[![GitHub Stars](https://img.shields.io/github/stars/nectariferous/Infinity-Crypto-Services.svg?style=social&label=Star)](https://github.com/infbsc/Infinity-Crypto-Services/stargazers)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Inf_bsc?style=social)](https://twitter.com/Inf_bsc)
 [![Telegram](https://img.shields.io/badge/Join-Telegram-F1B90C.svg)](https://t.me/Inf_bsc)
 
@@ -35,7 +35,7 @@ Infinity Crypto (INFC) is a cutting-edge BEP20 token on the Binance Smart Chain 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/infbsc/Infinity-Crypto-Services.git
+   git clone https://github.com/nectariferous/Infinity-Crypto-Services.git
    ```
 2. Install dependencies:
    ```
