@@ -1,84 +1,85 @@
-# 🌟 Contributing to Infinity Crypto Services
+# Contributing to Infinity Crypto Services
 
-First off, thank you for considering contributing to Infinity Crypto Services! It's people like you that make Infinity Crypto such a groundbreaking project.
+We're thrilled that you're interested in contributing to Infinity Crypto Services! This document provides guidelines for contributing to the project.
 
-## 🚀 Quick Start
+## Table of Contents
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│ 1. Fork: https://github.com/infbsc/Infinity-Crypto-Services            │
-│ 2. Clone: git clone https://github.com/YOUR_USERNAME/Infinity-Crypto-Services │
-│ 3. Branch: git checkout -b feature/your-amazing-feature                │
-│ 4. Code: Make your changes                                             │
-│ 5. Commit: git commit -m "Add some AmazingFeature"                     │
-│ 6. Push: git push origin feature/your-amazing-feature                  │
-│ 7. PR: Open a pull request on GitHub                                   │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+- [Code of Conduct](#code-of-conduct)
+- [Getting Started](#getting-started)
+- [Development Workflow](#development-workflow)
+- [Submitting Changes](#submitting-changes)
+- [Coding Standards](#coding-standards)
+- [Testing](#testing)
+- [Documentation](#documentation)
+- [Community](#community)
 
-## 💻 Development Setup
-
-```
-┌────────────────────────────────────────────────────┐
-│ 1. npm install                                     │
-│ 2. cp .env.example .env                            │
-│ 3. # Edit .env with your configurations            │
-│ 4. npm run dev                                     │
-└────────────────────────────────────────────────────┘
-```
-
-## 🎨 Code Style
-
-We use ESLint and Prettier. Run these before committing:
-
-```
-┌────────────────────────────────────────────────────┐
-│ npm run lint                                       │
-│ npm run format                                     │
-└────────────────────────────────────────────────────┘
-```
-
-## 🐛 Reporting Bugs
-
-```
-┌────────────────────────────────────────────────────┐
-│ 1. Check existing issues first                     │
-│ 2. Use the bug report template                     │
-│ 3. Be specific and detailed                        │
-│ 4. Provide reproduction steps                      │
-└────────────────────────────────────────────────────┘
-```
-
-## 💡 Suggesting Enhancements
-
-```
-┌────────────────────────────────────────────────────┐
-│ 1. Use the feature request template                │
-│ 2. Explain the benefit to users                    │
-│ 3. Provide examples of how it would work           │
-│ 4. Consider UX/UI implications                     │
-└────────────────────────────────────────────────────┘
-```
-
-## 🤝 Pull Request Process
-
-1. Ensure any install or build dependencies are removed before the end of the layer when doing a build.
-2. Update the README.md with details of changes to the interface, this includes new environment variables, exposed ports, useful file locations and container parameters.
-3. Increase the version numbers in any examples files and the README.md to the new version that this Pull Request would represent.
-4. You may merge the Pull Request in once you have the sign-off of two other developers, or if you do not have permission to do that, you may request the second reviewer to merge it for you.
-
-## 📜 Code of Conduct
+## Code of Conduct
 
 By participating in this project, you agree to abide by our [Code of Conduct](CODE_OF_CONDUCT.md).
 
-## 🙏 Thank You
+## Getting Started
 
-Your contributions to open source, no matter how small, make projects like this possible. Thank you for taking the time to contribute!
+1. Fork the repository on GitHub
+2. Clone your fork locally:
+   ```
+   git clone https://github.com/YOUR_USERNAME/Infinity-Crypto-Services.git
+   cd Infinity-Crypto-Services
+   ```
+3. Install dependencies:
+   ```
+   npm install
+   ```
+4. Create a branch for your feature or fix:
+   ```
+   git checkout -b feature/your-feature-name
+   ```
 
-## 💖 Support the Project
+## Development Workflow
 
-If you find value in our work, consider supporting us:
+1. Make your changes in your feature branch
+2. Test your changes thoroughly
+3. Commit your changes:
+   ```
+   git commit -m "Add some AmazingFeature"
+   ```
+4. Push to your fork:
+   ```
+   git push origin feature/your-feature-name
+   ```
+5. Open a pull request from your fork to the main repository
+
+## Submitting Changes
+
+1. Ensure your code follows our coding standards
+2. Include tests for new features or bug fixes
+3. Update documentation as necessary
+4. Submit a pull request with a clear description of your changes
+
+## Coding Standards
+
+- Follow the [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+- Use ESLint and Prettier for code formatting
+- Write clear, commented, and self-documenting code
+
+## Testing
+
+- Write unit tests for new features
+- Ensure all tests pass before submitting a pull request
+- Run tests using `npm test`
+
+## Documentation
+
+- Update the README.md file with any necessary changes
+- Document new features or changes in behavior
+- Keep inline code comments up-to-date
+
+## Community
+
+- Join our [Telegram group](https://t.me/Inf_bsc) for discussions
+- Follow us on [Twitter](https://twitter.com/Inf_bsc) for updates
+
+Thank you for contributing to Infinity Crypto Services!
 
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="Buy Me A Coffee">](https://buymeacoffee.com/nectariferous.coffee?new=1)
 
-Every contribution helps fuel our innovation!
+Your support helps us continue improving the project!
